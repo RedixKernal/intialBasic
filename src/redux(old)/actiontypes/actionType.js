@@ -1,0 +1,1 @@
+export const _POST = "_POST";
